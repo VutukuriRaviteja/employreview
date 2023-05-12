@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jehon11/employee_review.git"
+    "url": "https://github.com/VutukuriRaviteja/employreview"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jehon11/employee_review/issues"
+    "url": "https://github.com/VutukuriRaviteja/employreview/issues"
   },
-  "homepage": "https://github.com/jehon11/employee_review#readme"
+  "homepage": "https://github.com/VutukuriRaviteja/employreview"
 }
