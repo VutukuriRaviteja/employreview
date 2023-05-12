@@ -1,0 +1,10 @@
+.employee-list-item {
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: rgb(240,240,240);
+  text-shadow: 0 0 0.5px black;
+}

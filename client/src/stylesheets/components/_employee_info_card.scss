@@ -1,0 +1,25 @@
+.employee-info-card {
+  border: 1px solid rgb(222,222,222);
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: white;
+}
+
+.employee-info-table {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.employee-info-labels {
+  margin-right: 40px;
+}
+
+.employee-info-values {
+  color: rgb(100, 100, 100);
+}
+
+.employee-info-buttons-container {
+  display: flex;
+}

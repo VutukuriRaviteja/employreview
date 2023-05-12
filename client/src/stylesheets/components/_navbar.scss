@@ -1,0 +1,53 @@
+.navbar {
+  z-index: 3;
+}
+
+.navbar-brand {
+  margin-right: 50px;
+}
+
+.navbar-el {
+  margin: 8px 30px 8px 0;
+  color: $light-grey;
+}
+
+.navbar-link {
+  margin: 8px 30px 8px 0;
+  color: $light-grey;
+  cursor: pointer;
+
+  &:hover {
+    color: white;
+  }
+}
+
+// .navbar-left {
+//   display: flex;
+// }
+
+// .navbar-right {
+//   display: flex;
+
+//   .navbar-name {
+//     margin-right: 10px;
+//   }
+// }
+
+// .navbar-link {
+//   padding: 0 15px;
+// }
+
+.active {
+  text-shadow: 0 0 1px white;
+}
+
+// .navbar-container {
+//   width: 100%;
+//   display: flex;
+//   justify-content: space-between;
+// }
+
+// .sign-out {
+//   color: white;
+//   cursor: pointer;
+// }

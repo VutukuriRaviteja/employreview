@@ -1,0 +1,17 @@
+.employee-list {
+  margin-top: 50px;
+  min-width: 400px;
+  padding: 20px 0;
+}
+
+.employee-list-top-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  padding: 0 20px;
+}
+
+.employee-list-title {
+  font-weight: bold;
+}
